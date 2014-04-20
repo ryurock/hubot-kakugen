@@ -1,0 +1,27 @@
+{
+  "name": "hubot-kakugen",
+  "version": "0.0.0",
+  "description": "Hubot-scripts Returns meigenDB feed information from http://systemincome.com/ ",
+  "main": "kakugen.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryurock/hubot-kakugen.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "ryurock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryurock/hubot-kakugen/issues"
+  },
+  "homepage": "https://github.com/ryurock/hubot-kakugen",
+  "dependencies": {
+    "cheerio": "^0.15.0",
+    "request": "^2.34.0"
+  }
+}
